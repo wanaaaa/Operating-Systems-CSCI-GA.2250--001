@@ -1,0 +1,12 @@
+1. Unzip the file
+
+2. Go to the unziped foleder.
+
+3. compile;
+g++ main.cpp 
+
+4.execute;
+./a.out ./data/input-1
+./a.out -verbose  ./data/input-1
+The path for input is relative address.
+
